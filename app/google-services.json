@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957307142779",
+    "project_id": "star-eateries-1",
+    "storage_bucket": "star-eateries-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957307142779:android:49f8927889279bf0eb18de",
+        "android_client_info": {
+          "package_name": "com.stareateries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957307142779-c37us1hcu0f2p1kkshabg8cah2ka863d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stareateries",
+            "certificate_hash": "2d344ab9e82779222eb12ae0340bd9ce20767d31"
+          }
+        },
+        {
+          "client_id": "957307142779-gr33c8gassgdn2vun31638r04vsp3ivq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGEPaQhVfRYPmIFTwBgQPF2xBGvcQsOBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957307142779-gr33c8gassgdn2vun31638r04vsp3ivq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
