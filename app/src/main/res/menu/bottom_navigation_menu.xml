@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dairy"
+        android:icon="@drawable/dairy"
+        android:title="@string/dairy" />
+    <item
+        android:id="@+id/nav_cake"
+        android:icon="@drawable/cake"
+        android:title="@string/cakes" />
+    <item
+        android:id="@+id/nav_bread"
+        android:icon="@drawable/bread"
+        android:title="@string/bread" />
+
+</menu>
